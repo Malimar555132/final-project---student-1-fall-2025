@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQPABYAAAAAcAcAAAAAAHd3BwBwd3cAAAAAd3d3twB3f3d3AABwdxd8HAD/8Hd3dwB3d3d3dwAA8Hd3d3d3f3d3dwAAAH/3d/f3HnTndwAAAH/3d3f/QhIhEQAAAPB3f3d//37n3QAAAPB393/3d///zAAAAAB/d/f3d3d39wAAAADwd/f/d3d3DwAAAAAAf/d3d3f3AAAAAAAA8Hd3d/cPAAAAAAAAAP93dw8AAAAAAAAAAAD//wAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image3": {
+        "data": "hwQPABYAAABwd3cAAAAAAHAHAAB7d3d3AAAAAHd3BwDBx3F3BwAAd3f3dwB3d3d3dwB3d3cP/wB3d3f3d3d3d3cPAAB3fkfhf393f/cAAAAREiEk/3d3f/cAAADdfuf/93f3dw8AAADM//93f/d/dw8AAAB/d3d3f3939wAAAADwd3d3/393DwAAAAAAf3d3d3/3AAAAAAAA8H93d3cPAAAAAAAAAPB3d/8AAAAAAAAAAAD//wAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "image1": {
+        "data": "hwQWAA8AAACwcXfR/AAAAHd8d9F8DwAAd3fn4n/3AAB3fHdxf3cPAHdxd3F/dw8Ad3dH4n939wBwdxf0d3d3D3B37/J3d3cPAHf3f/9/dw8AcHf/d393DwAA93f3//cAAAB3d3939wAAcHd3f3cPAABwd/d39wAAAHf3f3cPAAAAd3d39wAAAHB3d/cPAAAAd3f3DwAAAAB39w8AAAAAAHAPAAAAAAAAcPcAAAAAAAAA9wAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
